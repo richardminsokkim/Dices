@@ -47,3 +47,4 @@ else if(one > two){
   document.querySelector("h1").innerHTML = '<i class="far far2 fa-flag"></i> Player Two Wins';
 }
 }
+loadDie();
